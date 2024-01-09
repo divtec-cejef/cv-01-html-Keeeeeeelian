@@ -15,12 +15,12 @@ body {
 
 img {
     max-width: 100%;
-    height: auto;
-    width: auto;
+    height: 150px;
+    width: 150px;
 }
 
 a {
-    font-family: Consolas;
+    font-family: Consolas, Arial;
     color: deeppink;
     text-decoration: none;
 }
